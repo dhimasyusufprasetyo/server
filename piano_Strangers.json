@@ -1,37 +1,37 @@
 {
-  "testAdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-  "testAdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-  "testAdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-  "testAdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
-  "admobAppId": "ca-app-pub-3940256099942544~3347511713",
+  "testAdmobAppId": "",
+  "testAdmobBanner": "",
+  "testAdmobInterstitial": "",
+  "testAdmobRewarded": "",
+  "admobAppId": "",
   "admobBannerID": [
     "",
     "",
     ""
   ],
   "admobInterstitialID": [
-    "ca-app-pub-3940256099942544/1033173712",
-    "ca-app-pub-3940256099942544/1033173712",
-    "ca-app-pub-3940256099942544/1033173712"
+    "",
+    "",
+    ""
   ],
   "admobRewardedID": [
     "",
     "",
     "" 
   ],
-  "unityGameID": "4407885",
+  "unityGameID": "4390455",
   "unityInterstitialID": [
-    "4407885",
-    "4407885",
-    "4407885"
+    "4390455",
+    "4390455",
+    "4390455"
   ],
   "unityBannerId": [
-    "4407885",
+    "4390455",
     "",
     ""
   ],
   "unityRewardedID": [
-    "4407885",
+    "4390455",
     "",
     ""
   ]
