@@ -10,9 +10,9 @@
     ""
   ],
   "admobInterstitialID": [
-    "111",
-    "111",
-    "111" 
+    "ca-app-pub-8036433073169335/4202049714",
+    "ca-app-pub-8036433073169335/5782724697",
+    "ca-app-pub-8036433073169335/1843479682" 
   ],
   "admobRewardedID": [
     "ca-app-pub-3940256099942544/1033173712",
@@ -21,7 +21,7 @@
   ],
   "unityGameID": "5347655",
    "unityInterstitialID": [
-    "111",
+    "Interstitial_Android",
     "",
     ""
   ],
