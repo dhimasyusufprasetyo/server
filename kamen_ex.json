@@ -10,9 +10,9 @@
     ""
   ],
   "admobInterstitialID": [
-    "ca-app-pub-8036433073169335/8711652665",
-    "ca-app-pub-8036433073169335/8935794195",
-    "ca-app-pub-8036433073169335/2504185582" 
+    "ca-app-pub-3940256099942544/1033173712",
+    "ca-app-pub-3940256099942544/1033173712",
+    "ca-app-pub-3940256099942544/1033173712" 
   ],
   "admobRewardedID": [
     "ca-app-pub-3940256099942544/1033173712",
@@ -21,9 +21,9 @@
   ],
   "unityGameID": "4401133",
    "unityInterstitialID": [
-    "Interstitial_Android",
-    "",
-    ""
+    "1111",
+    "1111",
+    "1111"
   ],
   "unityBannerId": [
     "",
