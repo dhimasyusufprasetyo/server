@@ -20,10 +20,10 @@
     "" 
   ],
   "unityGameID": "5358699",
-   "": [
-    "",
-    "",
-    ""
+   "unityInterstitialID": [
+    "Interstitial_Android",
+    "Interstitial_Android",
+    "Interstitial_Android"
   ],
   "unityBannerId": [
     "",
