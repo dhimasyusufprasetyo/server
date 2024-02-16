@@ -5,9 +5,9 @@
   "testAdmobRewarded": "",
   "admobAppId": "ca-app-pub-6861716755919216~7064345499",
   "admobBannerID": [
-    "",
-    "",
-    ""
+    "ca-app-pub-1051109932600241/6069597593",
+    "ca-app-pub-1051109932600241/3443434257",
+    "ca-app-pub-1051109932600241/2130352589"
   ],
   "admobInterstitialID": [
     "ca-app-pub-1051109932600241/9258058907",
@@ -23,7 +23,7 @@
    "unityInterstitialID": [
    "Interstitial_Android",
    "Interstitial_Android",
-    "farelinter2"
+    "111"
   ],
   "unityBannerId": [
     "",
