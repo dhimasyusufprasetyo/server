@@ -1,0 +1,38 @@
+{
+  "testAdmobAppId": "ca-app-pub-6861716755919216~1390297703",
+  "testAdmobBanner": "ca-app-pub-6861716755919216/2876340854",
+  "testAdmobInterstitial": "ca-app-pub-6861716755919216/8533701107",
+  "testAdmobRewarded": "",
+  "admobAppId": "ca-app-pub-6861716755919216~1390297703",
+  "admobBannerID": [
+    "ca-app-pub-3940256099942544/1033173712",
+    "",
+    ""
+  ],
+  "admobInterstitialID": [
+    "ca-app-pub-3940256099942544/1033173712",
+    "ca-app-pub-3940256099942544/1033173712",
+    "ca-app-pub-3940256099942544/1033173712"
+  ],
+  "admobRewardedID": [
+    "ca-app-pub-6861716755919216/9054405855",
+    "",
+    "" 
+  ],
+  "unityGameID": "5652347",
+   "unityInterstitialID": [
+    "1111",
+    "1111",
+    "111111"
+  ],
+  "unityBannerId": [
+    "",
+    "",
+    ""
+  ],
+  "unityRewardedID": [
+    "",
+    "",
+    ""
+  ]
+}
